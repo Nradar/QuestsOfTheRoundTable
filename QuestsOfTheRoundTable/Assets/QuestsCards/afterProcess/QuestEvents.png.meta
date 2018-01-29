@@ -1,9 +1,20 @@
 fileFormatVersion: 2
 guid: ca77fe72fd657a74f8e8c6fcaf2ab83e
-timeCreated: 1515777321
+timeCreated: 1517203426
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: QuestEvents_0
+    21300002: QuestEvents_1
+    21300004: QuestEvents_2
+    21300006: QuestEvents_3
+    21300008: QuestEvents_4
+    21300010: QuestEvents_5
+    21300012: QuestEvents_6
+    21300014: QuestEvents_7
+    21300016: QuestEvents_8
+    21300018: QuestEvents_9
+    21300020: QuestEvents_10
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -78,7 +89,161 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: QuestEvents_0
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1970
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: QuestEvents_1
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1429
+        width: 762
+        height: 1051
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: QuestEvents_2
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1424
+        width: 762
+        height: 1052
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: QuestEvents_3
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 1432
+        width: 761
+        height: 1048
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: QuestEvents_4
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1431
+        width: 757
+        height: 1049
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: QuestEvents_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 321
+        width: 762
+        height: 1064
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: QuestEvents_6
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 308
+        width: 756
+        height: 1049
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: QuestEvents_7
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 316
+        width: 755
+        height: 1051
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: QuestEvents_8
+      rect:
+        serializedVersion: 2
+        x: 2724
+        y: 315
+        width: 756
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: QuestEvents_9
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 184
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: QuestEvents_10
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 149
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
     outline: []
     physicsShape: []
   spritePackingTag: 
