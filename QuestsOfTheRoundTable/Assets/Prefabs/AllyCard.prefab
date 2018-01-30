@@ -933,6 +933,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1488748151883618}
   m_Enabled: 1
   m_EditorHideFlags: 0
+<<<<<<< HEAD
   m_Script: {fileID: 11500000, guid: 8106d1dcc910140cdba91a958819e682, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
@@ -949,6 +950,19 @@ MonoBehaviour:
   Ability: 0
   ForQuestName: 
   M: 0
+=======
+  m_Script: {fileID: 11500000, guid: 6f4583d18a2a3f942bb842974a5bf81c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cardAsset: {fileID: 0}
+  PreviewManager: {fileID: 0}
+  NameText: {fileID: 114019477193753704}
+  ManaCostText: {fileID: 114383326460424914}
+  DescriptionText1: {fileID: 114460929680115252}
+  DescriptionText2: {fileID: 114558078712987910}
+  HealthText: {fileID: 0}
+  AttackText: {fileID: 0}
+>>>>>>> 5193afe3418ee407bc93b7dde5998b7b1f45993c
   CardTopRibbonImage: {fileID: 114829417208777850}
   CardLowRibbonImage: {fileID: 114940550688928496}
   CardGraphicImage: {fileID: 114999247393203562}
