@@ -164,7 +164,7 @@ Camera:
   near clip plane: 0.3
   far clip plane: 1000
   field of view: 60
-  orthographic: 1
+  orthographic: 0
   orthographic size: 5
   m_Depth: -1
   m_CullingMask:
@@ -211,7 +211,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4577682136095962, guid: 41c70d96d3235e24ca5887105b3e422d, type: 2}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -4.36
       objectReference: {fileID: 0}
     - target: {fileID: 4577682136095962, guid: 41c70d96d3235e24ca5887105b3e422d, type: 2}
       propertyPath: m_LocalRotation.x
@@ -233,11 +233,17 @@ Prefab:
       propertyPath: m_RootOrder
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 1748504496335974, guid: 41c70d96d3235e24ca5887105b3e422d, type: 2}
+    - target: {fileID: 114981367206515098, guid: 41c70d96d3235e24ca5887105b3e422d,
+        type: 2}
+      propertyPath: cardAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 733c11354bf86574bac5ec59692c76d4,
+        type: 2}
+    - target: {fileID: 1186823626792792, guid: 41c70d96d3235e24ca5887105b3e422d, type: 2}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 1186823626792792, guid: 41c70d96d3235e24ca5887105b3e422d, type: 2}
+    - target: {fileID: 1748504496335974, guid: 41c70d96d3235e24ca5887105b3e422d, type: 2}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
