@@ -1,9 +1,17 @@
 fileFormatVersion: 2
 guid: 9b4a24fa1af50da4a876b6cf2cc87c31
-timeCreated: 1515779875
+timeCreated: 1517258002
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: QuestsSpecial1_0
+    21300002: QuestsSpecial1_1
+    21300004: QuestsSpecial1_2
+    21300006: QuestsSpecial1_3
+    21300008: QuestsSpecial1_4
+    21300010: QuestsSpecial1_5
+    21300012: QuestsSpecial1_6
+    21300014: QuestsSpecial1_7
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -40,7 +48,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -66,9 +74,131 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: QuestsSpecial1_0
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1811
+        width: 541
+        height: 537
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: QuestsSpecial1_1
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1814
+        width: 547
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: QuestsSpecial1_2
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1811
+        width: 551
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: QuestsSpecial1_3
+      rect:
+        serializedVersion: 2
+        x: 2818
+        y: 1806
+        width: 548
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: QuestsSpecial1_4
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 667
+        width: 542
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: QuestsSpecial1_5
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 671
+        width: 543
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: QuestsSpecial1_6
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 683
+        width: 540
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: QuestsSpecial1_7
+      rect:
+        serializedVersion: 2
+        x: 2788
+        y: 677
+        width: 538
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
     outline: []
     physicsShape: []
   spritePackingTag: 

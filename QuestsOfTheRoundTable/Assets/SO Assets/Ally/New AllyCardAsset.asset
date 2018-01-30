@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73d4c929f44244b3b9b57c04af29956d, type: 3}
+  m_Name: New AllyCardAsset
+  m_EditorClassIdentifier: 
+  CardTitle: 
+  CardType: 
+  Description1: 
+  Description2: 
+  CardImage: {fileID: 0}
+  BattlePoint: 0
+  XBattlePoint: -1
+  Bids: 0
+  XBids: 0
+  Ability: 0
+  ForQuestName: 
+  M: 0
