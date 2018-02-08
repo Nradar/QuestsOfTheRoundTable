@@ -12,11 +12,14 @@ public class AllyCardManager : MonoBehaviour {
 	public Text CardTypeText;
     public Text DescriptionText1;
     public Text DescriptionText2;   //special case in quests
-    public Text BattlePointText;
-    public Text XBattlePointText;
+    public int BattlePoint;
+    public int XBattlePoint;
 	public int Bids;
 	public int XBids;
-	public bool Ability;
+	public bool BidsAbility;
+	public bool BattlePointAbility;
+	public bool InPlayAbility;
+	public string InPlayName;
 	public string ForQuestName;	// if the card has ability then check stagename == questname
 	public bool M;	// merlin
     //[Header ("GameObject References")]
@@ -81,9 +84,25 @@ public class AllyCardManager : MonoBehaviour {
         // 5) Change the card graphic sprite
         CardGraphicImage.sprite = allyCardAsset.CardImage;
 		// 6) add card battle point
-		BattlePointText.text = allyCardAsset.BattlePoint.ToString();
+		BattlePoint = allyCardAsset.BattlePoint;
 		// 7) add card extra battle point
-		XBattlePointText.text = allyCardAsset.XBattlePoint.ToString();
+		XBattlePoint = allyCardAsset.XBattlePoint;
+		// 8) add card bids point
+		Bids = allyCardAsset.Bids;
+		// 9) add card extra bids point
+		XBids = allyCardAsset.XBids;
+		// 10) add card battle point condition
+		BattlePointAbility = allyCardAsset.BattlePointAbility;
+		// 11) add card bids ability
+		BidsAbility = allyCardAsset.BidsAbility;
+		// 12) add card Inplay Ability
+		InPlayAbility = allyCardAsset.InPlayAbility;
+		// 13) add card Inplay Name
+		InPlayName = allyCardAsset.InPlayName;
+		// 13) add card for quest name
+		ForQuestName = allyCardAsset.ForQuestName;
+		// 14) add card if it is merlin
+		M = allyCardAsset.M;
 
         /*if (cardAsset.MaxHealth != 0)
         {

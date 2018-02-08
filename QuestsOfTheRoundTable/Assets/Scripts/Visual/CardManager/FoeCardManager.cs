@@ -10,10 +10,11 @@ public class FoeCardManager : MonoBehaviour {
     [Header("Text Component References")]
     public Text CardTitleText;
 	public Text CardTypeText;
-    public Text DescriptionText1;
-    public Text DescriptionText2;   //special case in quests
-    public Text BattlePointText;
-    public Text XBattlePointText;
+    public Text DescriptionText1;     //Description for BP
+    //public Text DescriptionText2;   //special case in quests
+    public int BattlePoint;
+    public int XBattlePoint;
+	public bool Ability;
     //[Header ("GameObject References")]
     //public GameObject HealthIcon;
     //public GameObject AttackIcon;
@@ -72,13 +73,15 @@ public class FoeCardManager : MonoBehaviour {
 		CardTypeText.text = foeCardAsset.CardType;
         // 4) add description
         DescriptionText1.text = foeCardAsset.Description1;
-        DescriptionText2.text = foeCardAsset.Description2;
+        //DescriptionText2.text = foeCardAsset.Description2;
         // 5) Change the card graphic sprite
         CardGraphicImage.sprite = foeCardAsset.CardImage;
 		// 6) add card battle point
-		BattlePointText.text = foeCardAsset.BattlePoint.ToString();
+		BattlePoint = foeCardAsset.BattlePoint;
 		// 7) add card extra battle point
-		XBattlePointText.text = foeCardAsset.XBattlePoint.ToString();
+		XBattlePoint = foeCardAsset.XBattlePoint;
+		// 8) add card ability condition
+		Ability = foeCardAsset.Ability;
 
         /*if (cardAsset.MaxHealth != 0)
         {

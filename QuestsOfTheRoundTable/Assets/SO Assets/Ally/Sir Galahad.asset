@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73d4c929f44244b3b9b57c04af29956d, type: 3}
+  m_Name: Sir Galahad
+  m_EditorClassIdentifier: 
+  CardTitle: Sir Galahad
+  CardType: ALLY
+  Description1: +15
+  Description2: 
+  CardImage: {fileID: 21300004, guid: 69fc4363f25f8864aa163219ce119882, type: 3}
+  BattlePoint: 15
+  XBattlePoint: 0
+  Bids: 0
+  XBids: 0
+  BattlePointAbility: 0
+  BidsAbility: 0
+  InPlayAbility: 0
+  InPlayName: 
+  ForQuestName: 
+  M: 0

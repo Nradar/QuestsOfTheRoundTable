@@ -28,10 +28,13 @@ public class AllyCardAsset : ScriptableObject
 
     [Header("Ally Info")]
     public int BattlePoint;
-    public int XBattlePoint = -1;	// Extra Battle Point
+    public int XBattlePoint;	// Extra Battle Point
 	public int Bids;
 	public int XBids;
-	public bool Ability;
+	public bool BattlePointAbility;
+	public bool BidsAbility;
+	public bool InPlayAbility;
+	public string InPlayName;
 	public string ForQuestName;	// if the card has ability then check stagename == questname
 	public bool M;	// merlin
 }

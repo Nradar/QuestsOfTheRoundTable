@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13f00b49b38c8473ead264a8fdc70873, type: 3}
+  m_Name: Saxons
+  m_EditorClassIdentifier: 
+  CardTitle: Saxons
+  CardType: FOE
+  Description1: 10/20
+  Description2: ' '
+  CardImage: {fileID: 21300002, guid: b4b05584251e0e745b032cd54c576909, type: 3}
+  BattlePoint: 10
+  XBattlePoint: 20
+  Ability: 1

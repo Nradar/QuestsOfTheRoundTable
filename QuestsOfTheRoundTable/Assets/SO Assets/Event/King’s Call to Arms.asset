@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3a3a02d456b64de894e7ce1c1b14943, type: 3}
+  m_Name: "King\u2019s Call to Arms"
+  m_EditorClassIdentifier: 
+  CardTitle: "King\u2019s Call to Arms"
+  CardType: EVENT
+  Description1: 1 Weapon/2 Foe Cards
+  Description2: The highest ranked player(s) must place 1 weapon in the discard pile.
+    If unable to do so, 2 Foe Cards must be discarded.
+  CardImage: {fileID: 0}
+  EventName: 6
