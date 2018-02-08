@@ -852,10 +852,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 75052b93c2e96064981f44a72d4eb92e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TurnThisOffWhenPreviewing: {fileID: 1551560643721662}
+  TurnThisOffWhenPreviewing: {fileID: 1979189213639366}
   TargetPosition: {x: 0, y: 2.5, z: 0}
   TargetScale: 2.5
-  previewGameObject: {fileID: 0}
+  previewGameObject: {fileID: 1652903396092634}
   ActivateInAwake: 1
 --- !u!114 &114419797637769066
 MonoBehaviour:
