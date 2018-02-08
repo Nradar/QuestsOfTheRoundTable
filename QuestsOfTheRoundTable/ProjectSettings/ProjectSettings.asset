@@ -633,12 +633,14 @@ PlayerSettings:
   cloudServicesEnabled:
     Build: 0
     Collab: 1
+    ErrorHub: 0
+    Hub: 0
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
   cloudProjectId: b5a8c8f1-0bf2-4ff7-a6ef-0b0cde65d49e
   projectName: QuestsOfTheRoundTable
-  organizationId: yumizhtch
+  organizationId: comp3004qotr
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0

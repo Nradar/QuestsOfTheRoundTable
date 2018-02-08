@@ -1,10 +1,11 @@
 fileFormatVersion: 2
 guid: 27438d236104548438aad3ce9d83685b
-timeCreated: 1517206083
+timeCreated: 1518036049
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
     21300000: ByFreepik_0
+    21300002: ByFreepik_1
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -88,6 +89,20 @@ TextureImporter:
         y: 290
         width: 1015
         height: 1377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ByFreepik_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 102
+        width: 1278
+        height: 125
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

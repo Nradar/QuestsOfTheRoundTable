@@ -1,9 +1,18 @@
 fileFormatVersion: 2
 guid: 4f95b6cbad0c3a24ab5f0f9d0644fd40
-timeCreated: 1515779868
+timeCreated: 1517348946
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: shields3_0
+    21300002: shields3_1
+    21300004: shields3_2
+    21300006: shields3_3
+    21300008: shields3_4
+    21300010: shields3_5
+    21300012: shields3_6
+    21300014: shields3_7
+    21300016: shields3_8
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -40,7 +49,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -66,9 +75,145 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: shields3_0
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1270
+        width: 335
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shields3_1
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1323
+        width: 403
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shields3_2
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1271
+        width: 242
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shields3_3
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 762
+        width: 376
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shields3_4
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 766
+        width: 335
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shields3_5
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 757
+        width: 343
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shields3_6
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 196
+        width: 396
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shields3_7
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 211
+        width: 349
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shields3_8
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 221
+        width: 337
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
     outline: []
     physicsShape: []
   spritePackingTag: 

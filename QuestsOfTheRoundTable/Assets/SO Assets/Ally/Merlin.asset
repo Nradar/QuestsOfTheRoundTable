@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73d4c929f44244b3b9b57c04af29956d, type: 3}
+  m_Name: Merlin
+  m_EditorClassIdentifier: 
+  CardTitle: Merlin
+  CardType: ALLY
+  Description1: 
+  Description2: Player may review any one stage per Quest
+  CardImage: {fileID: 21300014, guid: 9b4a24fa1af50da4a876b6cf2cc87c31, type: 3}
+  BattlePoint: 0
+  XBattlePoint: 0
+  Bids: 0
+  XBids: 0
+  BattlePointAbility: 0
+  BidsAbility: 0
+  InPlayAbility: 0
+  InPlayName: 
+  ForQuestName: 
+  M: 1

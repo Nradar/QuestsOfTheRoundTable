@@ -8,20 +8,21 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e0236381ad872a04aaaf1d6ae7f5849b, type: 3}
+  m_Script: {fileID: 11500000, guid: 73d4c929f44244b3b9b57c04af29956d, type: 3}
   m_Name: Sir Gawain
   m_EditorClassIdentifier: 
-  characterAsset: {fileID: 0}
-  Description: 
-  CardImage: {fileID: 0}
-  ManaCost: 0
-  MaxHealth: 0
-  Attack: 0
-  AttacksForOneTurn: 1
-  Taunt: 0
-  Charge: 0
-  CreatureScriptName: 
-  specialCreatureAmount: 0
-  SpellScriptName: 
-  specialSpellAmount: 0
-  Targets: 0
+  CardTitle: Sir Gawain
+  CardType: ALLY
+  Description1: +10
+  Description2: +20 on the Test of the Green Knight Quest
+  CardImage: {fileID: 21300000, guid: 9b4a24fa1af50da4a876b6cf2cc87c31, type: 3}
+  BattlePoint: 10
+  XBattlePoint: 20
+  Bids: 0
+  XBids: 0
+  BattlePointAbility: 1
+  BidsAbility: 0
+  InPlayAbility: 0
+  InPlayName: 
+  ForQuestName: Test of the Green Knight
+  M: 0
